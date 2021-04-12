@@ -1,4 +1,10 @@
-# Chat/Messaging App Light and Dark Theme - Flutter UI
+# Chat/Messaging App Light and Dark Theme - Flutter UI (Excercise)
+
+Flutter를 활용한 메세지 앱 실습
+
+Android 앱으로 Simulation 돌리며 공부 중
+
+------------------
 
 ## [Watch it on YouTube](https://youtu.be/uiJF-ShOLyo)
 
